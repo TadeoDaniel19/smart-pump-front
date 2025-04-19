@@ -13,7 +13,7 @@ Before running any commands, make sure your **backend** service is up and runnin
 In the project root, you can run:
 
 
-\`\`\`bash
+```bash
 npm run dev
 npm run build
 npm run lint
@@ -23,7 +23,7 @@ npm run test
 npm run test:watch
 npm run test:ui
 npm run coverage
-\`\`\`
+```
 
 
 | Script       | Description                                                                    |
@@ -43,15 +43,15 @@ npm run coverage
 
 
 1. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 2. Ensure the backend API is running.
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
-4. Open your browser at \`http://localhost:5173\` (or the port shown in the terminal).
+   ```
+4. Open your browser at `http://localhost:5173` (or the port shown in the terminal).
 
 
 ---
