@@ -57,5 +57,5 @@ npm run coverage
 ---
 
 
-Happy coding! Feel free to contribute and file issues if you run into any problems.
+
 
